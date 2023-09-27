@@ -66,7 +66,7 @@ install() {
   # install
   log::info "[$(timestamp)][desktop][$name] installing $cache_file ..."
   # os::install $source_bin_file $usr_bin_dir $name
-  install::zip $cache_file TinyRDM "/Volumes/Tiny\ RDM.app"
+  install::zip $cache_file TinyRDM "Tiny RDM.app"
 
   # clean
   log::info "[$(timestamp)][desktop][$name] cleaning ..."

@@ -1,5 +1,5 @@
 NAME=tiny-rdm
-VERSION=v0.0.1
+VERSION=v1.0.0
 MODULE=desktop
 DESCRIPTION="A Modern Redis Desktop Manager"
 HOMEPAGE="https://github.com/tiny-craft/tiny-rdm"
